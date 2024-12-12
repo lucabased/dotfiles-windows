@@ -39,9 +39,6 @@ $packages = @(
     "rufus",
 	
 	# Comms
-    "pidgin",
-    "pidgin-otr",
-	"rambox",
 	
 	# Security
     "vmwareworkstation",
@@ -54,6 +51,7 @@ $packages = @(
 	# Development
     "postman",
     "rust",
+    "deno",
     "vscode",
     "nodejs",
 	"dbeaver",
